@@ -1,0 +1,14 @@
+#one{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: none;
+}
+body{
+    background-color: blue;
+}
+#r1{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
